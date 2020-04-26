@@ -1,2 +1,2 @@
 # BBrito-Eng-Dev
-Dev together, right now ,over me !
+Incubadora de imersão ao mundo dos ódigos,conhecimento de programação que estão em construção ao longo da minha carreira,passando-o adiante sem custo algum.
