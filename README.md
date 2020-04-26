@@ -1,2 +1,2 @@
 # BBrito-Eng-Dev
-Incubadora de imersão ao mundo dos ódigos,conhecimento de programação que estão em construção ao longo da minha carreira,passando-o adiante sem custo algum.
+imersão ao mundo dos ódigos,conhecimento de programação que estão em construção ao longo da minha carreira,passando-o adiante sem custo algum.
